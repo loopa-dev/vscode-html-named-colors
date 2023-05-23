@@ -11,6 +11,7 @@
     "type": "git",
     "url": "https://github.com/loopa-dev/vscode-html-named-colors"
   },
+  "publisher": "loopa-dev",
   "categories": [
     "Other"
   ],
